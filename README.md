@@ -1,4 +1,3 @@
-## About Me
 **Choi Junsoo (최준수)**  
 ---
 
