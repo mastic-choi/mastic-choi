@@ -15,7 +15,7 @@
 - **Daejeon Daeshin High School**  
   *March 2020 – February 2023*  
 - **Kookmin University**  
-  *March 2023 – present *
+  *March 2023 – present *<br>
   Major:  Department of Artificial Intelligence 
 
 ---
