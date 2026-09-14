@@ -24,7 +24,7 @@
 ### 📌활동
 - [뉴스 헤드라인의 감성 분석을 통해 역발상 투자 가설을 통계적으로 검증](https://github.com/mastic-choi/FinNLP-Contrarian.git)
 - 국민대학교 소프트웨어융합대학 자율주행 동아리 FOSCAR 26-1차 ROS 스터디
-- [2026 Stanford CS231N: Deep Learning for Computer Vision 스터디](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
+- [2026 Stanford CS231N: Deep Learning for Computer Vision 수강 및 스터디](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
 - [2026 Stanford CME296: Diffusion & Large Vision Models 수강 및 스터디](https://www.youtube.com/watch?v=tr-CUpw--ck&list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu)
 - [5시드 딥 앙상블 pseudo-label 생성](https://github.com/mastic-choi/TwinLiteNet-KMU-finetune)
 
