@@ -1,13 +1,12 @@
 **Choi Junsoo (최준수)**  
 ---
 
-### 📌Certificate
-| Date | Subject |
-| :---: | --- |
-| 2023.11.22	| e-Test Professionals 엑셀	 |
-| 2023.11.22	 | e-Test Professionals 워드	 |
-| 2023.12.20 | e-Test Professionals 파워포인트 |
-| 2025.12 | JLPT N3 (CEFR B1) |
+### 📌Education
+- **Daejeon Daeshin High School**  
+  *March 2020 – February 2023*  
+- **Kookmin University**  
+  *March 2023 – present*<br>
+  Major:  Department of Artificial Intelligence 
 
 ---
 
@@ -22,12 +21,13 @@
 
 ---
 
-### 📌Education
-- **Daejeon Daeshin High School**  
-  *March 2020 – February 2023*  
-- **Kookmin University**  
-  *March 2023 – present*<br>
-  Major:  Department of Artificial Intelligence 
+### 📌Certificate
+| Date | Subject |
+| :---: | --- |
+| 2023.11.22	| e-Test Professionals 엑셀	 |
+| 2023.11.22	 | e-Test Professionals 워드	 |
+| 2023.12.20 | e-Test Professionals 파워포인트 |
+| 2025.12 | JLPT N3 (CEFR B1) |
 
 ---
 
