@@ -12,12 +12,12 @@
 
 ### 📌대회
 - **제9회 국민대학교 자율주행 경진대회 - AI-엣지 챌린지**  
-  *2026.05.23. – 08.25.*<br>
-  본선 진출<br>
+  기간 : '26.05.23. ~ 08.25.<br>
+  최종 성적 : 본선 진출<br>
   [KURiver-KMU-auto-contest](https://github.com/mastic-choi/KURiver-KMU-auto-contest) · [parking_mission](https://github.com/leejeeu/parking_mission)
 - **AutoRace 2026 스케일카 자율주행 경진대회**  
-  *2026.09.07. – 11.20.*<br>
-  본선 진행중
+  기간 : '26.09.07. ~ 11.20.<br>
+  최종 성적 : 본선 진행중
 
 ---
 
