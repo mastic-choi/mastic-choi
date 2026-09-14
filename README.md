@@ -23,7 +23,7 @@
 
 ### 📌활동
 **스터디**
-- 국민대학교 소프트웨어융합대학 자율주행 동아리 FOSCAR 26-1차 ROS 스터디
+- [국민대학교 소프트웨어융합대학 자율주행 동아리 FOSCAR 26-1차 ROS 스터디](https://cs-kookmin-club.tistory.com/category/FOSCAR-%28Autonomous%20Driving%29/ROS%20%EC%8A%A4%ED%84%B0%EB%94%94)
 - [2026 Stanford CS231N: Deep Learning for Computer Vision 수강 및 스터디](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
 - [2026 Stanford CME296: Diffusion & Large Vision Models 수강 및 스터디](https://www.youtube.com/watch?v=tr-CUpw--ck&list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu)
 
