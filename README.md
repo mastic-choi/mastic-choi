@@ -29,7 +29,7 @@
 
 **프로젝트**
 - [뉴스 헤드라인의 감성 분석을 통해 역발상 투자 가설을 통계적으로 검증](https://github.com/mastic-choi/FinNLP-Contrarian.git)
-- [5시드 딥 앙상블 pseudo-label 생성](https://github.com/mastic-choi/TwinLiteNet-KMU-finetune)
+- [5-Seed 딥 앙상블 기반 Pseudo-Labeling으로 파인튜닝 데이터 증강](https://github.com/mastic-choi/TwinLiteNet-KMU-finetune)
 
 ---
 
