@@ -34,13 +34,13 @@
 ---
 
 ### 📌Certificate
-| Date | Subject |
-| :---: | --- |
-| 2023.11.22	| e-Test Professionals 엑셀	 |
-| 2023.11.22	 | e-Test Professionals 워드	 |
-| 2023.12.20 | e-Test Professionals 파워포인트 |
-| 2025.12 | JLPT N3 (CEFR B1) |
-| 2026.05.21 | PCCE Programmers |
+| Date | Logo | Subject |
+| :---: | :---: | --- |
+| 2023.11.22 | <img src="assets/certificates/etest-professionals.png" width="140" alt="e-Test"> | e-Test Professionals 엑셀 |
+| 2023.11.22 | <img src="assets/certificates/etest-professionals.png" width="140" alt="e-Test"> | e-Test Professionals 워드 |
+| 2023.12.20 | <img src="assets/certificates/etest-professionals.png" width="140" alt="e-Test"> | e-Test Professionals 파워포인트 |
+| 2025.12 | <img src="assets/certificates/jlpt-logo.svg" width="120" alt="JLPT"> | JLPT N3 (CEFR B1) |
+| 2026.05.21 | <img src="assets/certificates/pcce-badge.png" width="40" alt="PCCE"> | PCCE Programmers |
 
 ---
 
