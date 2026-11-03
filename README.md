@@ -61,27 +61,6 @@ Major:  Department of Artificial Intelligence
 
 ---
 
-### 📌Certificate
-| Date | Logo | Subject |
-| :---: | :---: | --- |
-| 2023.11.22 | <img src="assets/certificates/etest-professionals.png" width="140" alt="e-Test"> | e-Test Professionals 엑셀 |
-| 2023.11.22 | <img src="assets/certificates/etest-professionals.png" width="140" alt="e-Test"> | e-Test Professionals 워드 |
-| 2023.12.20 | <img src="assets/certificates/etest-professionals.png" width="140" alt="e-Test"> | e-Test Professionals 파워포인트 |
-| 2025.12 | <img src="assets/certificates/jlpt-logo.svg" width="120" alt="JLPT"> | JLPT N3 (CEFR B1) |
-| 2026.05.21 | <img src="assets/certificates/pcce-badge.png" width="40" alt="PCCE"> | PCCE Programmers |
-
----
-
-### 📌Military Service
-<ul>
-
-**Republic of Korea Air Force**  
-*January 2024 – October 2025*  
-Mandatory Military Service  
-
-</ul>
-
-
 <br>백준 : https://www.acmicpc.net
 <br>백준 프로필 : https://www.acmicpc.net/user/mastic
 <br>solved.ac : https://solved.ac/profile/mastic
