@@ -27,7 +27,8 @@ Major:  Department of Artificial Intelligence
 
 **AutoRace 2026 스케일카 자율주행 경진대회**  
 기간 : '26.09.07. ~ 11.20.<br>
-최종 성적 : 본선 진행중
+최종 성적 : 최우수상(한국연구제단 이사장상)<br>
+[LimoPro_FOSCAR_Vision](https://github.com/mastic-choi/LimoPro_FOSCAR_Vision) · [autorace2026](https://github.com/smoony0226/autorace2026)
 
 </ul>
 
