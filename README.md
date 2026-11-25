@@ -9,7 +9,7 @@
 
 **Kookmin University**  
 *March 2023 – present*<br>
-Major:  Department of Artificial Intelligence 
+Major:  Artificial Intelligence 
 
 </ul>
 
