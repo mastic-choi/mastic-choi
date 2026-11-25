@@ -57,15 +57,3 @@ Major:  Department of Artificial Intelligence
 
 [뉴스 헤드라인의 감성 분석을 통해 역발상 투자 가설을 통계적으로 검증](https://github.com/mastic-choi/FinNLP-Contrarian.git)<br>
 [5-Seed 딥 앙상블 기반 Pseudo-Labeling으로 파인튜닝 데이터 증강](https://github.com/mastic-choi/TwinLiteNet-KMU-finetune)
-
-</ul>
-
----
-
-<br>백준 : https://www.acmicpc.net
-<br>백준 프로필 : https://www.acmicpc.net/user/mastic
-<br>solved.ac : https://solved.ac/profile/mastic
-<br><br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mastic)](https://solved.ac/profile/mastic)
-***
